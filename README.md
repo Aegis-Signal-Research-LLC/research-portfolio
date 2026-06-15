@@ -17,7 +17,7 @@ Aegis Signal Research LLC is a cybersecurity research organization focused on em
 - Modeling AI-enhanced cyber threats  
 - Identifying vulnerabilities in critical infrastructure systems  
 
-*(Coming soon)*
+📄 [View Research](./ai-threat-model-critical-infrastructure.md)
 
 ---
 
@@ -25,7 +25,7 @@ Aegis Signal Research LLC is a cybersecurity research organization focused on em
 - Analysis of VoIP-based attack vectors  
 - Security risks in command and control communication systems  
 
-*(Coming soon)*
+📄 [View Research](./ai-threat-model-critical-infrastructure.md)
 
 ---
 
